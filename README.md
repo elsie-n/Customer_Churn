@@ -96,7 +96,7 @@ What can the company do to retain customers and what retention strategies can be
 
 * By conducting a thorough analysis, evaluating costs, considering customer value, assessing revenue impacts and exploring value-added services the company can strategically lower call charges while main.
 
-### *RETENTION STRATEGIES :*
+### *Retention Strategies:*
 
 A couple of retention strategies SyriaTel can adopt to maintain its customers:
 
